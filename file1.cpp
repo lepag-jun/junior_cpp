@@ -1,5 +1,5 @@
 void hello()
 {
-	int x;
-	
+	double x;
+	return;
 }
